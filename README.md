@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# Artboard App Build With React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Site](https://drawingapp-d2f66.web.app/).
 
-## Available Scripts
+## Used Technologies
+
+- React
+- React Router
+- React Hook Form
+- Tailwind css
+- DaisyUI
+- Firebase
+- React Firebase Hooks
 
 In the project directory, you can run:
 
